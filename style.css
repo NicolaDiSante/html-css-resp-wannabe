@@ -111,6 +111,14 @@ img {
 }
 
 body{
-  margin: 0;
+  margin:0;
+}
+
+.row {
+  margin-top: 0;
+}
+
+#steps {
+  background-color: white;
 }
 }
